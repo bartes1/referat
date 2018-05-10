@@ -1,1 +1,1 @@
-# referat
+CREATE DATABSE Referat
